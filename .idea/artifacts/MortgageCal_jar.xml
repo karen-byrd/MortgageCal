@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MortgageCal:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MortgageCal_jar</output-path>
+    <root id="archive" name="MortgageCal.jar">
+      <element id="module-output" name="MortgageCal" />
+    </root>
+  </artifact>
+</component>
